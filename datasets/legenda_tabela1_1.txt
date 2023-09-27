@@ -1,0 +1,5 @@
+n_obs, Numero de observações
+bairro, Bairro do onde esta localizado o imovel
+tipo, tipo do imovel, Apartamento, Cobertura, Casa ou Sala
+n_quartos, Numero de quartos do imovel
+preco, Valor do imovel

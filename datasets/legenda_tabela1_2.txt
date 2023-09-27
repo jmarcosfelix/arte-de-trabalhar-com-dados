@@ -1,0 +1,14 @@
+Tabela 1.2
+	Pesquisa antropométrica: amostra de 45 mulheres idosas acima de 60 anos
+Colunas
+Ident, 
+Categ: Pode ser A (Ativa) ou S (Sedentaria), 
+Idade, 
+Peso medido em kg, 
+Altura media cm, 
+IMC: Indice de Massa Corporal, razao peso / (altura em metros ao quadrado), 
+Classe IMC: normal ou sobrepeso, 
+Cintura: Circuferencia da cintura, medida em cm, 
+Quadril: Circuferencia do quadrial, media em cm, 
+RCQ: Relacao cintura/quadril,adimensional , 
+Classe RCQ: PR = pequeno risco, MR = Médio risco e GR = grande risco
